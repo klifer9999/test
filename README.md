@@ -112,9 +112,9 @@ Oczywiście kod do zoptymalizowania.
 - Potem w zależności od posiadanych kluczy, dostajemy się do komponentu light i zmieniamy go wyłączamy.
 
 
-Informacje o monologach ******
+Informacje o monologach ******dokończyć*******
 
-Informacje o drzwiach wyjsciownych ******
+Informacje o drzwiach wyjsciownych ******dokończyć*******
 
 
 
