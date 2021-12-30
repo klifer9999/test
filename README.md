@@ -116,8 +116,7 @@ Informacje o monologach ******dokończyć*******
 
 Informacje o drzwiach wyjsciownych ******dokończyć*******
 
-
-
+![TrollAttack](https://user-images.githubusercontent.com/46341836/147755401-9ecadc05-037f-4169-817b-72535065ab68.gif)
 
 Źródła
 
